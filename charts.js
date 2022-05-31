@@ -155,9 +155,9 @@ function buildCharts(sample) {
         bar: { color: "black"},
         steps: [
           { range: [0, 2], color: "red" },
-          { range: [2, 4], color: "orange" },
+          { range: [2, 4], color: "#ff7f0e" },
           { range: [4, 6], color: "yellow" },
-          { range: [6, 8], color: "yellowgreen" },
+          { range: [6, 8], color: "2ca02c" },
           { range: [8, 10], color: "green" }
         ],
       }
